@@ -4,7 +4,7 @@
 ### Funcionamiento Del algoritmo Bubble Sort
 Revisa cada elemento de la lista que va a ser ordenada con el siguiente, intercambiándolos de posición si están en el orden equivocado
 es un sencillo algoritmo de ordenamiento. Funciona revisando cada elemento de la lista que va a ser ordenada con el siguiente, intercambiándolos de posición si están en el orden equivocado. Es necesario revisar varias veces toda la lista hasta que no se necesiten más intercambios
-
+ 
 **Este algoritmo obtiene su nombre de la forma con la que suben por la lista los elementos durante los intercambios, como si fueran pequeñas "burbujas". También es conocido como el método del intercambio directo
 Dada su simplicidad, el ordenamiento de burbuja es utilizado para introducir el concepto de algoritmo de ordenamiento para estudiantes de ciencias de la computación. A pesar de esto, algunos investigadores como Owen Astrachan han criticado su popularidad en la enseñanza de ciencias de la computación, llegando a recomendar su eliminación de los planes de estudio. Sumado a esto, Jargon File, un libro ampliamente citado en la cultura hacker, lo denomina "el mal algoritmo genérico"**
 
@@ -26,7 +26,7 @@ El ordenamiento de burbuja tiene una complejidad Ω(n²). Cuando una lista ya es
 * Entre mayor sea la cantidad de Elementos que recorre, mas le cuesta recorrer el Vector(N vueltas)
 ### Ejemplo en imagen
 
-![imagenBubbleSrt](https://github.com/sansxd/algorit/blob/master/imagenes/imgbubblesort.png)
+![imagenBubbleSrt](https://github.com/sansxd/prueba/blob/master/imagenes/imgbubblesort.png)
 
 
 Los elementos ingresados fueron gracias a esta pagina [Random.org](https://www.random.org/integer-sets/).
