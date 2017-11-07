@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyectobubblesort", "Proyectobubblesort\Proyectobubblesort.csproj", "{CE8C7881-6E0A-40E7-8201-D8177CB07418}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestBubblesort", "UnitTestBubblesort\UnitTestBubblesort.csproj", "{FBE33AB8-FEEE-43C1-9D12-928847A31ED6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE8C7881-6E0A-40E7-8201-D8177CB07418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE8C7881-6E0A-40E7-8201-D8177CB07418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE8C7881-6E0A-40E7-8201-D8177CB07418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE8C7881-6E0A-40E7-8201-D8177CB07418}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBE33AB8-FEEE-43C1-9D12-928847A31ED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBE33AB8-FEEE-43C1-9D12-928847A31ED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBE33AB8-FEEE-43C1-9D12-928847A31ED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBE33AB8-FEEE-43C1-9D12-928847A31ED6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C8CFF12-731D-45EF-87C7-73149492AAA8}
+	EndGlobalSection
+EndGlobal
