@@ -29,6 +29,7 @@ El ordenamiento de burbuja tiene una complejidad Ω(n²). Cuando una lista ya es
 ![imagenBubbleSrt](https://github.com/sansxd/prueba/blob/master/imagenes/imgbubblesort.png)
 
 **aqui hice un grafico en el cual me base en las pruebas unitarias que realice con el algoritmo Bubble sort, donde use N elementos en cada prueba**
+
 ![Grafico](https://github.com/sansxd/prueba/blob/master/imagenes/GraficoBBsort.png)
 
 **Tambien adjunto una imagen de las pruebas realizadas en visual studio.**
