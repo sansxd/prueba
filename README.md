@@ -28,6 +28,12 @@ El ordenamiento de burbuja tiene una complejidad Ω(n²). Cuando una lista ya es
 
 ![imagenBubbleSrt](https://github.com/sansxd/prueba/blob/master/imagenes/imgbubblesort.png)
 
+**aqui hice un grafico en el cual me base en las pruebas unitarias que realice con el algoritmo Bubble sort, donde use N elementos en cada prueba**
+![Grafico](https://github.com/sansxd/prueba/blob/master/imagenes/GraficoBBsort.png)
+
+**Tambien adjunto una imagen de las pruebas realizadas en visual studio.**
+![VisualS](https://github.com/sansxd/prueba/blob/master/imagenes/Graficovisualstudio.png
+)
 
 Los elementos ingresados fueron gracias a esta pagina [Random.org](https://www.random.org/integer-sets/).
-tambien dejo esta pagina [Time Comparison of Quick Sort, Insertion Sort and Bubble Sort](https://vinayakgarg.wordpress.com/2011/10/25/time-comparison-of-quick-sort-insertion-sort-and-bubble-sort/)
+tambien dejo esta pagina [Time Comparison of Quick Sort, Insertion Sort and Bubble Sort](https://vinayakgarg.wordpress.com/2011/10/25/time-comparison-of-quick-sort-insertion-sort-and-bubble-sort/), en la cual hace comparaciones con 3 algoritmos, pero creo que el Quick sort lo tiene malo, eso. 
